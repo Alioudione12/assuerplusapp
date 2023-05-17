@@ -1,7 +1,7 @@
 # Assuerplusapp
 ## Frontend d'un site d'assurance
 Visiter le site:
-<a href="https://assuerplusapp.pages.dev/">www.commerce.com</a>
+<a href="https://assuerplusapp.pages.dev/">www.Assuerplusapp.fr</a>
 
 #### Technologies:
 - React: https://reactjs.org/
