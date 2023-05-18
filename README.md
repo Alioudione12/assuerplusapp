@@ -1,5 +1,6 @@
 # Assuerplusapp
 ## Frontend d'un site d'assurance
+Pour ce projet AssuerplusApp nous devons intéresser uniquement le developpement de la partie client appelé Frontend
 Visiter le site:
 <a href="https://assuerplusapp.pages.dev/">www.Assuerplusapp.fr</a>
 
